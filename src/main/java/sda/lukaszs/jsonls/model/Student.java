@@ -10,6 +10,7 @@ public class Student {
         this.lastName = lastName;
         this.address = address;
     }
+    public Student(){}
 
     public String getName() {
         return name;
