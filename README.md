@@ -1,4 +1,4 @@
-# Projekt JSON
+# Projekt JSON (ćwiczenia)
 Program testowy, który mapuje obiekty na JSON i na odwrót.
 
-Made by @github/Kosiurnik with SDA
+Made by @Kosiurnik with SDA
